@@ -1,0 +1,13 @@
+{
+  "name": "js",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@prismicio/client": "5.1.0",
+    "encoding": "^0.1.13",
+    "http": "^0.0.0",
+    "https": "^1.0.0",
+    "url": "^0.11.0",
+    "zlib": "^1.0.5"
+  }
+}
